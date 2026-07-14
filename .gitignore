@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# XAMPP / PHP / Apache
+*.log
+error_log
+tmp/
+temp/
+
+# Custom backups
+*.bak
+*.sql_backup
+*.zip
+*.tar.gz
+Untitled-1.txt
